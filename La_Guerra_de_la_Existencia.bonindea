@@ -26,7 +26,8 @@ Para copypaste:
 
 "{
 
-
+id =
+fecha = //
 
 
 
@@ -46,7 +47,8 @@ Bloque vacío de 3 secciones.
 
 "{
 
-
+id =
+fecha = //
 
 
 
@@ -66,7 +68,64 @@ ellos), el cuerpo del texto, y para los subloques se dejan 3 renglones en vez de
 
 {
 
+id = 5
+fecha = //
 
+
+
+
+
+
+
+}
+
+{
+
+id = 4
+fecha = //
+
+
+
+
+
+
+
+}
+
+{
+
+id = 3
+fecha = //
+
+
+
+
+
+
+
+}
+
+{
+
+id = 2
+fecha = 26/12/2020
+
+Cálculos.
+
+
+
+
+
+
+
+}
+
+{
+
+id = 1
+fecha = 26/12/2020
+
+Estilo narrativo.
 
 
 
@@ -79,7 +138,7 @@ ellos), el cuerpo del texto, y para los subloques se dejan 3 renglones en vez de
 {
 
 id = 0
-25/12/2020
+fecha = 25/12/2020
 
 Conflicto:
 
@@ -87,7 +146,112 @@ Guerra entre la facción humanista y el Misatum Spatium.
 
 
 
+{
 
+id = 0.2
+fecha = 26/12/2020
+
+Humanistas.
+
+
+
+
+
+{
+
+id = 0.2.0
+fecha = 26/12/2020
+
+Objetivo.
+
+
+
+
+
+
+
+}
+
+}
+
+{
+
+id = 0.1
+fecha = 26/12/2020
+
+Misanos.
+
+
+
+
+
+{
+
+id = 0.1.0
+fecha = 26/12/2020
+
+Objetivo.
+
+
+
+
+
+
+
+}
+
+}
+
+{
+
+id = 0.0
+fecha = 26/12/2020
+
+Geografía de la región en conflicto.
+
+
+
+[
+
+Sistema de coordenadas.
+
+
+
+]
+
+
+
+{
+
+id = 0.0.1
+fecha = 26/12/2020
+
+Mapa en coordenadas.
+
+
+
+
+
+
+
+}
+
+{
+
+id = 0.0.0
+fecha = 26/12/2020
+
+Mapa en ASCII.
+
+
+
+
+
+
+
+}
+
+}
 
 }
 
