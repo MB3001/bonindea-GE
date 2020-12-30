@@ -1,7 +1,7 @@
 # bonindea-GE
 Sistema de ideas Bonindea de mi proyecto de relato libre "La Guerra de la Existencia".
 
-Versión: 1.1.
+Versión: 1.2.
 
 Autor: Matías Bonino (o "El Investigador de las Ideas").
 
