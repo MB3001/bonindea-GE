@@ -34,7 +34,9 @@ Para copypaste:
 
 Bloque unidefinidor vacío de 4 secciones.
 
-"{
+"
+
+{
 
 id =
 fecha = //
@@ -55,7 +57,9 @@ fecha = //
 
 Bloque vacío de 3 secciones.
 
-"{
+"
+
+{
 
 id =
 fecha = //
