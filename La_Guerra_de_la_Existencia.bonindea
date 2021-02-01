@@ -51,8 +51,6 @@ fecha = //
 
 
 
-
-
 }",
 
 Bloque vacío de 3 secciones.
@@ -63,8 +61,6 @@ Bloque vacío de 3 secciones.
 
 id =
 fecha = //
-
-
 
 
 
@@ -89,8 +85,6 @@ fecha = //
 
 
 
-
-
 }
 
 {
@@ -102,16 +96,12 @@ fecha = //
 
 
 
-
-
 }
 
 {
 
 id = 3
 fecha = //
-
-
 
 
 
@@ -130,8 +120,6 @@ Cálculos.
 
 
 
-
-
 }
 
 {
@@ -140,8 +128,6 @@ id = 1
 fecha = 26/12/2020
 
 Estilo narrativo.
-
-
 
 
 
@@ -170,8 +156,6 @@ id = 0.3
 fecha = 30/12/2020
 
 Datos de una hipotética guerra espacial en un entorno de asteroides y sin luz.
-
-
 
 
 
@@ -222,8 +206,6 @@ organización debido a fuertes desacuerdos religiosos o ideológicos.
 
 
 
-
-
 }
 
 {
@@ -239,8 +221,6 @@ por la IA.
 
 
 
-
-
 }
 
 {
@@ -253,8 +233,6 @@ Objetivo.
 Proteger la Esencia humana, un patrón de información común en todos los que
 llaman humanos y vendría a ser una condición lógica sumamente compleja y que
 está definida en un lenguaje de marcado.
-
-
 
 
 
@@ -278,8 +256,6 @@ hacerlo con sus cuerpos, en un frenesí casi constante y caótico.
 
 
 
-
-
 {
 
 id = 0.1.2
@@ -292,8 +268,6 @@ guerra fría entre sí, Los Cuatro Mundos. Aunque hay muchísimas facciones
 menores, todas se sitúan cerca de Los Cuatro, para poder abastecerse mediante el
 comercio en caso de carencia de un recurso. A la región poblada por los misanos
 se la llama el Misatum Spatium.
-
-
 
 
 
@@ -316,8 +290,6 @@ religioso, político, biológico y tecnológico de la Conciencia Ideal.
 
 
 
-
-
 }
 
 {
@@ -332,8 +304,6 @@ elimina casi toda noción de juicio, a través de la destrucción del Propósito
 sea las narrativas universalistas. Lo único que les preocupa es lo que amenace
 su camino a la Conciencia Ideal. No poseen moral alguna más allá de la tribu y
 la que se necesita para defender su camino a la Conciencia Ideal.
-
-
 
 
 
@@ -374,8 +344,6 @@ Mapa en coordenadas.
 
 
 
-
-
 }
 
 {
@@ -384,8 +352,6 @@ id = 0.0.0
 fecha = 26/12/2020
 
 Mapa en ASCII.
-
-
 
 
 
